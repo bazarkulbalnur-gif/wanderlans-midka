@@ -5,7 +5,7 @@ Wanderlens is an all-inclusive web platform designed for travelers who love coas
 
 ## Authors (Team "AI love")
 * Balnur
-* Ayajan
+* Ayazhan
 
 ## Development Time & Effort
 This project was successfully designed, structured, and implemented by our team in exactly 9 hours of continuous teamwork, dedication, and coding.
